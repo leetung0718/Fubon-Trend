@@ -1,3 +1,8 @@
 .vscode
-.DStore
+*.DStore
 __pycache__
+imgs/train/.
+
+# IMGS
+*.jpg
+*.png
